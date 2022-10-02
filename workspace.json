@@ -1,0 +1,9 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "api": "apps/api",
+    "webbot": "apps/webbot",
+    "webbot-e2e": "apps/webbot-e2e"
+  }
+}
